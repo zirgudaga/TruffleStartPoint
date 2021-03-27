@@ -1,4 +1,4 @@
-# Défi - Alyra - Parcours Développeur.se Blockchain
+# TP - Alyra - Parcours Développeur.se Blockchain
 
 📌  Point de démarrage pour truffle - Compatible avec HdWallet 1.2.2
 
